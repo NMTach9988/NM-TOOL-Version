@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3.1",
-  "url": "https://github.com/NMTach9988/NM-TOOL-Version/releases/download/v1.0.3.1/Setup_Nm_Tool.exe",
+  "version": "1.0.3.2",
+  "url": "https://github.com/NMTach9988/NM-TOOL-Version/releases/download/v1.0.3.2/Setup_Nm_Tool.exe",
   "note": "🛠️ รายการอัปเดต:\n- ปรับปรุงฟังก์ชัน ReadFlash (ดูดไฟล์)\n- แก้ไขการตั้งค่า Start Offset ในฟังก์ชันดูดไฟล์ให้ถูกต้อง\n- ปรับปรุง Security Asset"
 }
