@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4.1",
-  "url": "https://github.com/NMTach9988/NM-TOOL-Version/releases/download/v1.0.4.1/Setup_Nm_Tool.exe",
-  "note": "🛠️ รายการอัปเดต (Update Details):\n• ฟอนต์ใหม่เพิ่ม (New fonts added)\n• ปรับปรุง UI (UI improvements)"
+  "version": "1.0.4.2",
+  "url": "https://github.com/NMTach9988/NM-TOOL-Version/releases/download/v1.0.4.2/Setup_Nm_Tool.exe",
+  "note": "🛠️ Update Log: • Fixed Smart Key ID reset bug (แก้บัครีเซ็ตไอดีสมาร์ทคีย์)"
 }
