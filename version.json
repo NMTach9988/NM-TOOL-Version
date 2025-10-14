@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4.2",
-  "url": "https://github.com/NMTach9988/NM-TOOL-Version/releases/download/v1.0.4.2/Setup_Nm_Tool.exe",
-  "note": "🛠️ Update Log: • Fixed Smart Key ID reset bug (แก้บัครีเซ็ตไอดีสมาร์ทคีย์)"
+  "version": "1.0.4.3",
+  "url": "https://github.com/NMTach9988/NM-TOOL-Version/releases/download/v1.0.4.3/Setup_Nm_Tool.exe",
+  "note": "🛠️ Update Log:\n• แก้ไขบั๊กในฟังก์ชันล็อคดูด (Fixed a bug in the suction lock function)"
 }
