@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4.3",
-  "url": "https://github.com/NMTach9988/NM-TOOL-Version/releases/download/v1.0.4.3/Setup_Nm_Tool.exe",
-  "note": "🛠️ Update Log:\n• แก้ไขบั๊กในฟังก์ชันล็อคดูด (Fixed a bug in the suction lock function)"
+  "version": "1.0.4.4",
+  "url": "https://github.com/NMTach9988/NM-TOOL-Version/releases/download/v1.0.4.4/Setup_Nm_Tool.exe",
+  "note": "🛠️ Update Log: • ปรับแดชบอร์ดให้เล็กลง (Dashboard size has been reduced)"
 }
